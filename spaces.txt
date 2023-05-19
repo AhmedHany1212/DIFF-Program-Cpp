@@ -1,0 +1,5 @@
+Task    A – DIFF Program
+You are required to develop a DIFF C++ Program which compares two input text files and shows the difference, it is up to your engineering sense to define the Specifications, Features and Capabilities of your program.
+You need to deliver the source code of your program which MUST be compiled and tested at any preferred C/C++ compiler.
+Task B – DIFF Test Plan
+You are  required to deliver a Test Plan document that addresses the Unit and Block level testing of the DIFF program delivered in Task A.
